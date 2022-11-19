@@ -30,3 +30,11 @@ Links para acesso na Deep Web via Tor Browser
 - ProPublica - http://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion/
 
 - BBC - https://www.bbcweb3hytmzhn5d532owbu6oqadra5z3ar726vq5kgwwn6aucdccrad.onion/news
+
+- Tor Google - http://googleckcfhw4qzcjlijsfpnpucjldkxypmoyxwr5ydc63fekyycazqd.onion/
+
+- Proton Mail - https://account.proton.me/login
+
+- Dark Net Mail Exchange - http://hxuzjtocnzvv5g2rtg2bhwkcbupmk7rclb6lly3fo4tvqkk5oyrv3nid.onion/
+
+- Bitcoin Mining - http://quantumzij3ycjw47hfxzbgd3j6m6xx2rcsld4jyolmnmfu7vbmuqnad.onion/
